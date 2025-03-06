@@ -4,6 +4,8 @@ https://github.com/user-attachments/assets/7030ac1c-fec3-4218-b889-7861851dbac3
 
 # Getting Started with Create React App
 
+This project features an optimized autocomplete search bar. It utilizes a dummy API endpoint to fetch food recipes while implementing debouncing to minimize API requests. Additionally, fetched data is locally cached to prevent redundant network calls, enhancing efficiency.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
